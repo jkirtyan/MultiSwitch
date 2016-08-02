@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiSwitch</string>
+
+    <string name="string_1">Red</string>
+    <string name="string_2">Green</string>
+    <string name="string_3">Blue</string>
+</resources>

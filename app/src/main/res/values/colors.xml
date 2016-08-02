@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="switch_bgColor">#455A64</color>
+    <color name="switch_bgSelectedItem">#00897B</color>
+    <color name="switch_bgSelectedItemDisabled">#263238</color>
+
+    <color name="switch_itemTextColor">#8FFF</color>
+    <color name="switch_itemTextColorSelected">#FFF</color>
+    <color name="switch_itemTextColorSelectedDisabled">#8FFF</color>
+
+    <color name="color_1">#F44336</color>
+    <color name="color_2">#4CAF50</color>
+    <color name="color_3">#2196F3</color>
+</resources>
